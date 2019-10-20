@@ -1,4 +1,4 @@
-# stm32-scheduler
+# STM32F446RE-scheduler
 
 The program show how to make schedualer without FreeRTOS
 
